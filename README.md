@@ -1,4 +1,4 @@
-# Renewable-Asset-Performance-Monitor-RAPM-
+# Renewable-Asset-Performance-Monitor-(RAPM)
 Python based engineering project for renewable asset analytics.
 ---
 ![Renewable Asset Dashboard](images/dashboard.png)
