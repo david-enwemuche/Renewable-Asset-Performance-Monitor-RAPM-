@@ -1,5 +1,6 @@
 # Renewable-Asset-Performance-Monitor-RAPM-
 Python based engineering project for renewable asset analytics.
+![Renewable Asset Dashboard](images/dashboard.png)
 
 ## Project Overview
 This project demonstrates how Python can be used to monitor renewable energy assets through time-series analysis, KPI reporting, anomaly detection and automated engineering reporting. It simulates the work of an Asset Data Analyst analysing wind, hydro and solar performance data.
